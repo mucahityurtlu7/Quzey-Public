@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <item>
+            <title>v1.0.25+13</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/mucahityurtlu7/Quzey-Public/releases/tag/v1.0.25
+            </sparkle:releaseNotesLink>
+            <pubDate>Cum, 20 Şub 2026 16:16:04 +03:00</pubDate>
+            <enclosure url="https://github.com/mucahityurtlu7/Quzey-Public/releases/download/v1.0.25/Quzey_v1.0.25_Setup.exe"
+                       sparkle:version="13"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+        <title>Quzey Updates</title>
+        <language>tr</language>
+        <!-- 
+        NASIL KULLANILIR?
+        Aşağıdaki her item bir sürümü temsil eder. Yeni sürüm çıktığında en üste yeni bir <item> ekleyin.
+        -->
+        <item>
+            <title>v1.0.23+12</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/mucahityurtlu7/Quzey-Public/releases/tag/v1.0.23
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 20 Feb 2026 15:30:00 +0300</pubDate>
+            <!-- 
+            sparkle:version: Build number (+12) bu alana yazılmalıdır. WinSparkle bunu sayısal olarak karşılaştırır.
+            sparkle:os: windows
+            url: GitHub Release'deki .exe dosyasının download linki.
+            -->
+            <enclosure url="https://github.com/mucahityurtlu7/Quzey-Public/releases/download/v1.0.23/Quzey_v1.0.23_Setup.exe"
+                       sparkle:version="13"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
