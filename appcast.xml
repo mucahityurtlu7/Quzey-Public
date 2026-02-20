@@ -6,7 +6,7 @@
             <sparkle:releaseNotesLink>
                 https://github.com/mucahityurtlu7/Quzey-Public/releases/tag/v1.0.25
             </sparkle:releaseNotesLink>
-            <pubDate>Cum, 20 Şub 2026 16:16:04 +03:00</pubDate>
+            <pubDate>Fri, 20 Feb 2026 16:16:04 +0300</pubDate>
             <enclosure url="https://github.com/mucahityurtlu7/Quzey-Public/releases/download/v1.0.25/Quzey_v1.0.25_Setup.exe"
                        sparkle:version="13"
                        sparkle:os="windows"
@@ -31,7 +31,7 @@
             url: GitHub Release'deki .exe dosyasının download linki.
             -->
             <enclosure url="https://github.com/mucahityurtlu7/Quzey-Public/releases/download/v1.0.23/Quzey_v1.0.23_Setup.exe"
-                       sparkle:version="13"
+                       sparkle:version="12"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
