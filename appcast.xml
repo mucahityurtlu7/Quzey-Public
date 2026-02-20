@@ -16,12 +16,10 @@
                                      nedeniyle 0 bırakılabilir; WinSparkle bunu zorunlu tutmaz.
         -->
         <item>
-            <title>v1.0.25+13</title>
-            <sparkle:releaseNotesLink>
-                https://github.com/mucahityurtlu7/Quzey-Public/releases/tag/v1.0.25
-            </sparkle:releaseNotesLink>
-            <pubDate>Fri, 20 Feb 2026 16:16:04 +0300</pubDate>
-            <enclosure url="https://github.com/mucahityurtlu7/Quzey-Public/releases/download/v1.0.25/Quzey_v1.0.25_Setup.exe" sparkle:version="13" sparkle:shortVersionString="1.0.25" sparkle:os="windows" length="0" type="application/octet-stream" />
+            <title>v1.0.26+15</title>
+            <sparkle:releaseNotesLink>https://github.com/mucahityurtlu7/Quzey-Public/releases/tag/v1.0.26</sparkle:releaseNotesLink>
+            <pubDate>Fri, 20 Feb 2026 18:10:46 +03:00</pubDate>
+            <enclosure url="https://github.com/mucahityurtlu7/Quzey-Public/releases/download/v1.0.26/Quzey_v1.0.26_Setup.exe" sparkle:version="15" sparkle:shortVersionString="1.0.26" sparkle:os="windows" length="0" type="application/octet-stream" />
         </item>
         <item>
             <title>v1.0.23+12</title>
