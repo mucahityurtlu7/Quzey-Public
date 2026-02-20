@@ -4,6 +4,12 @@
         <title>Quzey Updates</title>
         <language>tr</language>
         <item>
+            <title>v1.0.27+17</title>
+            <sparkle:releaseNotesLink>https://github.com/mucahityurtlu7/Quzey-Public/releases/tag/v1.0.27</sparkle:releaseNotesLink>
+            <pubDate>Fri, 20 Feb 2026 21:13:07 +03:00</pubDate>
+            <enclosure url="https://github.com/mucahityurtlu7/Quzey-Public/releases/latest/download/Quzey_Setup.exe" sparkle:version="17" sparkle:shortVersionString="1.0.27" sparkle:os="windows" length="0" type="application/octet-stream" />
+        </item>
+        <item>
             <title>v1.0.25+15</title>
             <sparkle:releaseNotesLink>https://github.com/mucahityurtlu7/Quzey-Public/releases/tag/v1.0.25</sparkle:releaseNotesLink>
             <pubDate>Fri, 20 Feb 2026 18:22:31 +03:00</pubDate>
